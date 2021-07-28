@@ -5,7 +5,7 @@ Assignment 1 is an animation (see Part 3 for final product)
 
 -Part 1 - Background Design with Animations
 
--Part 2 - Character Design
+-Part 2 - Character Design (designed by myself) - will be using this design throughout most of the assignments
 
 -Part 3 - Background and Character Interactions
 
