@@ -6,14 +6,23 @@ Assignment 1 is an animation (see Part 3 for final product)
 -Part 3 - Background and Character Interactions
 
 Assignment 2 is a first person shooting game with (see Part 3 for final product)
+
 Disclaimer: There will be a few bugs (More details in the commented code at the top of the main sketch), including failure to detect shots at the start of the game
+
 -Created menu to start game
+
 -Implemented a crosshair and other visuals to stimulate a hunting rifle
+
 -Added a scoring system
+
 -Ammo system with reload included
+
 -Enemies spawn up to a certain amount with a fixed respawn time
+
 -Background animations (Blizzard)
+
 -Unpredictable enemy movement
+
 
 Assignment 3 is a top down shooting game 
 -Controls are shown when you run the code
