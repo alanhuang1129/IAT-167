@@ -64,7 +64,8 @@ Assignment 4 is a mining simulation game
 Assignment 4 is split into milestones of development
 
 ****Assignment 4 Final Product (post Milestone 3)****
-  -REQUIRES INSTALLATION OF MINIM (Sketch -> Import Library... -> Add Library... -> Search Minim -> Minim by Damien Di Fede and Anderson Mills)
+  -REQUIRES INSTALLATION OF MINIM 
+  (Sketch -> Import Library... -> Add Library... -> Search Minim -> Minim by Damien Di Fede and Anderson Mills)
     -Need to resize the window for the installation to display its completion
   
   Recommended: Turn down the volume of processing once it is played
